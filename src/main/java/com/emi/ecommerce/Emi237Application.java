@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Emi237Application {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(Emi237Application.class, args);
 	}
 
