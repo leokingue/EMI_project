@@ -8,7 +8,8 @@ public class Emi237Application {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(Emi237Application.class, args);
+
+	SpringApplication.run(Emi237Application.class, args);
 	}
 
 }
